@@ -5,7 +5,7 @@ create procedure "_SYS_BIC"."CD.LOTES/ZCV_LOTES_CALIDAD/proc" ( IN I_MTART NVARC
 --  PAQUETE          : CD
 --  FECHA DE CREACION: 15/05/2018
 --  MODULO SAP       : WM
---  AUTOR (ID/NOMBRE): MUNOZSAM/Samuel Muñoz - Lineadirecta
+--  AUTOR (ID/NOMBRE): MUNOZSAM/Samuel Muñoz
 --  TITULO           : Calidad de datos para lotes
 --  TIPO             : Reporte
 --  USO              : Composite en BW
